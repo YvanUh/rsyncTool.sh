@@ -1,6 +1,6 @@
 # Project Title
 
-Rsynctool
+Rsynctool.sh
 
 ### Prerequisites
 
